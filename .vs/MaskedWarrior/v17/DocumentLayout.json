@@ -1,0 +1,211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\UnityProject\\MaskedWarrior\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\hpbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\prickle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\prickle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\movecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\movecontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\weapon\\weaponcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\weapon\\weaponcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\weapon\\lifetimedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\weapon\\lifetimedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|f:\\unityproject\\maskedwarrior\\assets\\gamescript\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\weapon\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\endmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\endmanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|F:\\UnityProject\\MaskedWarrior\\assets\\gamescript\\game\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA38DB4-84C0-1CAC-D2E6-B5F4F5994C89}|Assembly-CSharp.csproj|solutionrelative:assets\\gamescript\\game\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoveControl.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\MoveControl.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\MoveControl.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\MoveControl.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\MoveControl.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwBEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:48:44.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Player\\Player.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Player\\Player.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Player\\Player.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAxwIoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:44:41.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LifeTimeDes.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Weapon\\LifeTimeDes.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Weapon\\LifeTimeDes.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Weapon\\LifeTimeDes.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Weapon\\LifeTimeDes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:49:27.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Weapon\\Bullet.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Weapon\\Bullet.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Weapon\\Bullet.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Weapon\\Bullet.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAA0wDYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:49:07.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponControl.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Weapon\\WeaponControl.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Weapon\\WeaponControl.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Weapon\\WeaponControl.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Weapon\\WeaponControl.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:49:33.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Prickle.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\Prickle.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\Prickle.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\Prickle.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\Prickle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:49:00.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\GameManager.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\GameManager.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\GameManager.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAywBMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:16:37.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HPBar.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\HPBar.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\HPBar.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\HPBar.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\HPBar.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA0wCUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T01:48:21.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EndManger.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\EndManger.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\EndManger.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\EndManger.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\EndManger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T05:37:07.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\MusicManager.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\MusicManager.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T06:21:27.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StartManager.cs",
+              "DocumentMoniker": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\StartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\GameScript\\Game\\StartManager.cs",
+              "ToolTip": "F:\\UnityProject\\MaskedWarrior\\Assets\\GameScript\\Game\\StartManager.cs",
+              "RelativeToolTip": "Assets\\GameScript\\Game\\StartManager.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAQwAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:23:01.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
